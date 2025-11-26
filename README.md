@@ -2,7 +2,7 @@
 
 <!-- Title and Cover Image -->
 <p align="center">
-  <img <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/18c9d6f9-ecfc-404c-b20b-8942ec33b040" />/>
+  <img <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/18c9d6f9-ecfc-404c-b20b-8942ec33b040" />
 </p>
 
 <!-- Badges -->
